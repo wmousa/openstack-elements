@@ -1,0 +1,10 @@
+{
+    "family": {
+        "redhat": {
+            "rdma-core":"rdma-core"
+        },
+        "debian": {
+            "rdma-core":"rdma-core"
+        }
+    }
+}

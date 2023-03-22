@@ -1,0 +1,14 @@
+{
+    "family": {
+        "redhat": {
+            "iperf3":"iperf3",
+            "pciutils":"pciutils",
+            "python36":"python36",	
+            "gcc":"gcc",
+            "make":"make",
+            "automake":"automake",
+            "libtool":"libtool",
+            "rdma-core-devel":"rdma-core-devel"		
+        }
+    }
+}
